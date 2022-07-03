@@ -1,2 +1,3 @@
 # TABLEAU-VIS
-
+A customer’s dashboard is created for a UK bank. From the analysis it is clear that most of the customers are in England then second place is Scotland and wales followed by northern Ireland. From the distribution by balance graph it can be seen that the graph drops gradually to some point and drops quickly for the remaining part. The lower the balance band , the more customers you have in that band. Also from the distribution by age it can be seen that most of the customers are either in their early 30s or late 30s contributing to a total of 40%.
+An interactive dashboard is created and the visualization based on the region can be seen. For instance, England has 70% of white-collar workers, predominantly because of London, which is the region's economic hub.
